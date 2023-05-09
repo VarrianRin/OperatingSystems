@@ -1,6 +1,6 @@
 Hello, 
 
-You are in the folder 4project. Here are 3 .cpp files, 2 .h and CMakeLists. Also, here is a folder "build" just to skip mkdir part also there are thread1.txt thread2.txt thread3.txt files.
+You are in the folder 4project. This is a simulation of memory management with address translation, which is usually performed by operating systems. Here are 3 .cpp files, 2 .h and CMakeLists. Also, here is a folder "build" just to skip mkdir part also there are thread1.txt thread2.txt thread3.txt files.
 Likewise, there are two tests for your convenience.
 
 First, you should move to the folder "build", then run cmake and make.
