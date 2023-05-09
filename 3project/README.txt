@@ -1,6 +1,6 @@
 Hello, 
 
-You are in the folder 3project. Here are 3 .cpp files, 2 .h and CMakeLists. Also, here is a an empty folder "build" just to skip mkdir part and two tests and tests for your convenience.
+You are in the folder 3project. This is a process scheduling simulation that is typically performed by operating systems. Here are 3 .cpp files, 2 .h and CMakeLists. Also, here is a an empty folder "build" just to skip mkdir part and two tests and tests for your convenience.
 
 First, you should move to the folder "build", then run cmake and make.
 Second, run the executable file 2project and specify arguments
