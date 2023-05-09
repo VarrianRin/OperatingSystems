@@ -1,0 +1,4 @@
+/home/max/Desktop/2project/cmake-build-debug/CMakeFiles/2project_lib.dir
+/home/max/Desktop/2project/cmake-build-debug/CMakeFiles/2project.dir
+/home/max/Desktop/2project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/max/Desktop/2project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

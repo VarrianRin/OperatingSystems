@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/2project.dir/main.cpp.o -o 2project   -L/home/max/Desktop/2project/build  -Wl,-rpath,/home/max/Desktop/2project/build lib2project_lib.a -lpthread 
