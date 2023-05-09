@@ -1,6 +1,6 @@
 Hello, 
 
-You are in the folder 2project. Here are two .cpp files, one .h and CMakeLists. Also, here is a an empty folder "build" just to skip mkdir part.
+You are in the folder 2 project. This is a consumer-producer simulation. Here are two .cpp files, one .h and CMakeLists. Also, here is a an empty folder "build" just to skip mkdir part.
 
 
 First, you should move to the folder "build", then run cmake and make.
