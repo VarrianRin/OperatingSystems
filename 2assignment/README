@@ -1,0 +1,17 @@
+Hello, 
+first, you should move to the folder "2assignment",
+there are three .c files, one .h and readme
+
+1)	to run the first task (fork-join) you should write: 
+	gcc -o fork-join fork-join.c -Wall -pthread
+	./fork-join
+
+2)	to run the second task (rendezvous) you should write:
+	gcc -o rendezvous rendezvous.c -Wall -pthread
+	./rendezvous
+	
+3)	to run the third task (barrier) you should write:
+	gcc -o barrier barrier.c -Wall -pthread
+	./barrier A
+	Where A is amount of processes
+
