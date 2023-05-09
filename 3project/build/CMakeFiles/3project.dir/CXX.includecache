@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/max/Desktop/3project/3project_lib.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+ctype.h
+-
+mylist.h
+/home/max/Desktop/3project/mylist.h
+
+/home/max/Desktop/3project/main.cpp
+3project_lib.h
+/home/max/Desktop/3project/3project_lib.h
+
+/home/max/Desktop/3project/mylist.h
+stdio.h
+-
+assert.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+algorithm
+-
+

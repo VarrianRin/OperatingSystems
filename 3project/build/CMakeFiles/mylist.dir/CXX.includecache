@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/max/Desktop/3project/mylist.cpp
+mylist.h
+/home/max/Desktop/3project/mylist.h
+
+/home/max/Desktop/3project/mylist.h
+stdio.h
+-
+assert.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+algorithm
+-
+

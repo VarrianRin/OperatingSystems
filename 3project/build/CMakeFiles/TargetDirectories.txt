@@ -1,0 +1,5 @@
+/home/max/Desktop/3project/build/CMakeFiles/edit_cache.dir
+/home/max/Desktop/3project/build/CMakeFiles/rebuild_cache.dir
+/home/max/Desktop/3project/build/CMakeFiles/3project.dir
+/home/max/Desktop/3project/build/CMakeFiles/mylist.dir
+/home/max/Desktop/3project/build/CMakeFiles/3project_lib.dir

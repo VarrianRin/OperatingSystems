@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/3project.dir/main.cpp.o  -o 3project   -L/home/max/Desktop/3project/build  -Wl,-rpath,/home/max/Desktop/3project/build lib3project_lib.a libmylist.a -lpthread 
